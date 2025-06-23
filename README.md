@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm universal-space</h1>
 <h3 align="center">🚀 Aspiring Software Developer | Open to Internship Opportunities</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java%20%7C%20Python%20%7C%20C%20%7C%20MERN%20Stack%20%7C%20Machine%20Learning%20%7C%20SQL%20%7C%20MongoDB&center=true&width=500&height=50&pause=1000" alt="Typing SVG" />
-</p>
+
 
 ---
 
