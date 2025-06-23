@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm universal-space!
 
-<!--
-**universal-space/universal-space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a passionate developer actively looking for **internship opportunities** where I can contribute, learn, and grow.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- **Languages:** Java, Python, C
+- **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- **Databases:** SQL, MongoDB
+- **Machine Learning:** Pandas, Scikit-learn, TensorFlow (basics) , CNN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projects
+- Built several full-stack web apps using React and Node.js
+- Implemented ML models for prediction and classification tasks
+- Designed SQL/MongoDB schemas for scalable applications
+
+## 📫 Let's Connect
+- Email: vashishta2004@gmail.com
+
+> 📌 I'm eager to join a team where I can apply my skills and contribute to real-world projects.
