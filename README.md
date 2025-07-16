@@ -45,7 +45,7 @@
 
 ### 📫 Let's Connect
 
-- 💌 Email: `vashishta2004@gmail.com`
+-  Email: `vashishta2004@gmail.com`
 
 ---
 
