@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm universal-space</h1>
-<h3 align="center">🚀 Aspiring Software Developer | Open to Internship Opportunities</h3>
+<h3 align="center">🚀 Aspiring Software Developer</h3>
 
 
 
